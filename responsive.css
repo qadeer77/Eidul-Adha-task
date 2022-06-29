@@ -1,0 +1,88 @@
+@media (min-width: 320px) and (max-width: 480px) {
+
+    html,
+    body {
+        background-image: url("https://cdn.dribbble.com/users/1675906/screenshots/15906182/05_4x.jpg");
+    }
+
+    .button-eid button {
+        position: relative;
+        left: -85px;
+        width: 200px;
+        top: -50px;
+    }
+
+    #abdul {
+        position: relative;
+        top: 30px;
+    }
+
+    #qadeer {
+        position: relative;
+        top: 110px;
+    }
+
+    /* eid-ist-day */
+    #abc {
+        position: relative;
+        left: 50px;
+        top: 160px;
+    }
+
+    #hour {
+        position: relative;
+        left: 50px;
+        top: 160px;
+    }
+
+    #minute {
+        position: relative;
+        left: 20px;
+        top: 160px;
+    }
+
+    /* eid-2nd-day */
+    #abcd {
+        position: relative;
+        top: 330px;
+        left: 50px;
+    }
+
+    #hourse {
+        position: relative;
+        top: 330px;
+        left: 50px;
+    }
+
+    #minuteser {
+        position: relative;
+        top: 330px;
+        left: 30px;
+    }
+
+    /* eid-3rd-day */
+    #abcde {
+        position: relative;
+        top: 520px;
+        left: 50px;
+    }
+
+    #hourseses {
+        position: relative;
+        top: 520px;
+        left: 50px;
+    }
+
+    #minuteseres {
+        position: relative;
+        top: 520px;
+        left: 20px;
+    }
+
+    #nahui {
+        position: relative;
+        top: 520px;
+        left: 20px;
+        font-size: 10px;
+    }
+}
