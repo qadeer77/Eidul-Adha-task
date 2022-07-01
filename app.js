@@ -5,6 +5,7 @@ function foo() {
     var today = new Date().getTime();
     var minus = date - today;
     var round = Math.round(minus / (1000 * 60 * 60 * 24));
+    swal("Welcome eid ist day");
     beforeDaste.innerHTML = round + " days ago"
 }
 function down() {
@@ -31,6 +32,7 @@ function fato() {
     var today = new Date().getTime();
     var minus = date - today;
     var round = Math.round(minus / (1000 * 60 * 60 * 24));
+    swal("Welcome eid 2nd day");
     beforeDaste.innerHTML = round + " days ago"
 }
 function anto() {
@@ -57,7 +59,8 @@ function fatone() {
     var today = new Date().getTime();
     var minus = date - today;
     var round = Math.round(minus / (1000 * 60 * 60 * 24));
-    beforeDaste.innerHTML = round + " days ago"
+    swal("Welcome eid 3rd day");
+    beforeDaste.innerHTML = round + " days ago";
 }
 function antone() {
     var before = document.getElementById("hourseses");
@@ -65,7 +68,7 @@ function antone() {
     var todayDate = new Date().getTime();
     var minus2 = tareek - todayDate;
     var round2 = Math.round(minus2 / (1000 * 60 * 60));
-    before.innerHTML = round2 + " hour ago"
+    before.innerHTML = round2 + " hour ago";
 }
 function mantonneyt() {
     var minute = document.getElementById("minuteseres");
@@ -81,5 +84,5 @@ function qurbaniy() {
     var minute3 = new Date().getTime();
     var minus3 = minute2 - minute3;
     var round3 = Math.round(minus3 / (1000 * 60 * 60));
-    minute.innerHTML = round3 + " gnte hone ke bad app qurbani nhi krskte"
+    minute.innerHTML = round3 + " gnte hone ke baad app qurbani nhi krskte";
 }

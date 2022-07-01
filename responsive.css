@@ -1,88 +1,54 @@
 @media (min-width: 320px) and (max-width: 480px) {
-
-    html,
-    body {
-        background-image: url("https://cdn.dribbble.com/users/1675906/screenshots/15906182/05_4x.jpg");
+    .but button{
+        width: 350px;
+        /* margin-top: 30px; */
     }
-
-    .button-eid button {
-        position: relative;
-        left: -85px;
-        width: 200px;
-        top: -50px;
+    .btni button{
+        width: 350px;
+        /* margin-top: 30px; */
     }
-
-    #abdul {
-        position: relative;
-        top: 30px;
+    .btndf button{
+        width: 350px;
+        /* margin-top: 30px; */
     }
-
-    #qadeer {
-        position: relative;
-        top: 110px;
+    .but h1{
+        color: white;
+        text-align: center;
     }
-
-    /* eid-ist-day */
-    #abc {
-        position: relative;
-        left: 50px;
-        top: 160px;
+    .but h2{
+        color: white;
+        text-align: center;
     }
-
-    #hour {
-        position: relative;
-        left: 50px;
-        top: 160px;
+    .but h3{
+        color: white;
+        text-align: center;
     }
-
-    #minute {
-        position: relative;
-        left: 20px;
-        top: 160px;
+    .btni h1{
+        color: white;
+        text-align: center;
     }
-
-    /* eid-2nd-day */
-    #abcd {
-        position: relative;
-        top: 330px;
-        left: 50px;
+    .btni h2{
+        color: white;
+        text-align: center;
     }
-
-    #hourse {
-        position: relative;
-        top: 330px;
-        left: 50px;
+    .btni h3{
+        color: white;
+        text-align: center;
     }
-
-    #minuteser {
-        position: relative;
-        top: 330px;
-        left: 30px;
+    .btndf h1{
+        color: white;
+        text-align: center;
     }
-
-    /* eid-3rd-day */
-    #abcde {
-        position: relative;
-        top: 520px;
-        left: 50px;
+    .btndf h2{
+        color: white;
+        text-align: center;
     }
-
-    #hourseses {
-        position: relative;
-        top: 520px;
-        left: 50px;
+    .btndf h3{
+        color: white;
+        text-align: center;
     }
-
-    #minuteseres {
-        position: relative;
-        top: 520px;
-        left: 20px;
-    }
-
-    #nahui {
-        position: relative;
-        top: 520px;
-        left: 20px;
-        font-size: 10px;
+    .btndf p{
+        color: white;
+        text-align: center;
     }
 }
